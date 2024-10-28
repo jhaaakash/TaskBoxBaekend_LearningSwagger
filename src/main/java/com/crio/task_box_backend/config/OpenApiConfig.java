@@ -21,8 +21,8 @@ public class OpenApiConfig {
                 .description("REST API for managing tasks and to-do items")
                 .version("1.0")
                 .contact(new Contact()
-                    .name("Your Name")
-                    .email("your.email@example.com")))
+                    .name("Aakash Kumar Jha")
+                    .email("aakashkumarjha@abc.com")))
             .servers(List.of(
                 new Server()
                     .url("http://localhost:8080")

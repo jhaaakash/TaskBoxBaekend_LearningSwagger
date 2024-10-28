@@ -12,3 +12,7 @@ localhost:8080/swagger-ui.html
 
 What are your observations?
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/9ccbc98c-1d5c-4d9b-b2b6-1287fc3ed0ab">
+
+
+Contact info:
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/66662446-4ce9-4fbc-aeec-42283600ca02">
