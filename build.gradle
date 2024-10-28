@@ -9,7 +9,7 @@ version = '0.0.1-SNAPSHOT'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(21)
 	}
 }
 
@@ -26,6 +26,7 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	//Dependency for SWAGGER Open API Documnetaion
 	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.3.0'
+	//http://localhost:8080/swagger-ui/index.html#/todo-controller/updateTodo
 }
 
 tasks.named('test') {
